@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aws-amplify/ui-react": "^4.3.2",
+    "aws-amplify": "^5.0.9",
+    "csvtojson": "^2.0.10",
+    "mongodb": "^4.9.1"
+  }
+}
