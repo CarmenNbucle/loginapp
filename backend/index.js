@@ -9,6 +9,7 @@ import listaRoutes from "./routes/listaRoutes.js";
 
 const app = express();
 app.use(express.json());
+app.options('*',cors())
 
 dotenv.config();
 conectarDB();
